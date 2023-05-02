@@ -5,7 +5,7 @@ public class Ex01_출력 {
 	public static void main(String[] args) {
 		
 		System.out.println("Hello world!");
-		System.out.println("장예슬");
+		System.out.println("MY NAME");
 	
 	}
 
